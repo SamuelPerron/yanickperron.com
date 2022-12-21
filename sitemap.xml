@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yanickperron.com/</loc>
+    <loc>http://dev.yanickperron.com/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://yanickperron.com/bio/</loc>
+    <loc>http://dev.yanickperron.com/bio/</loc>
   </url><url>
-    <loc>http://yanickperron.com/categories/</loc>
+    <loc>http://dev.yanickperron.com/categories/</loc>
   </url><url>
-    <loc>http://yanickperron.com/tags/</loc>
+    <loc>http://dev.yanickperron.com/tags/</loc>
   </url>
 </urlset>

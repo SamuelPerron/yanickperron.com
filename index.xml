@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanick Perron</title>
-    <link>http://yanickperron.com/</link>
+    <link>http://dev.yanickperron.com/</link>
     <description>Recent content on Yanick Perron</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="http://yanickperron.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language><atom:link href="http://dev.yanickperron.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://yanickperron.com/bio/</link>
+      <link>http://dev.yanickperron.com/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yanickperron.com/bio/</guid>
+      <guid>http://dev.yanickperron.com/bio/</guid>
       <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor massa et consectetur feugiat. Integer ac consequat diam. Integer vehicula mauris in risus laoreet sagittis. Nulla vitae augue sed tortor mollis sodales lacinia id dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin cursus sem ut purus tristique, sed fringilla felis interdum. Pellentesque volutpat diam nec felis maximus euismod.</description>
     </item>
     
